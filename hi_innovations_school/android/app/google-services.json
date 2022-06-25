@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520491468732",
+    "project_id": "hi-innovation-school",
+    "storage_bucket": "hi-innovation-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520491468732:android:216f2c9c4d8d8fb4644db9",
+        "android_client_info": {
+          "package_name": "com.example.hi_innovations_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520491468732-fo6mu2b03rlup1286viqbng88hfaf31m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hi_innovations_school",
+            "certificate_hash": "f689d045bfe6875349d8dd681a7a5c3a0aea7da6"
+          }
+        },
+        {
+          "client_id": "520491468732-fac9lt8ga2tiqikevimiedpefmg2dmoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBOAIfLgpqy6cX_6BjxS4whlKoNg0mPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520491468732-fac9lt8ga2tiqikevimiedpefmg2dmoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
